@@ -1,8 +1,8 @@
 import socks
 
 # Authentication keys. Get it here: https://core.telegram.org/api/obtaining_api_id
-api_id = 'your_api_id'
-api_hash = 'your_api_hash'
+api_id = '21430875'
+api_hash = '5820acaa648e7f05007d84853d0207f7'
 
 
 #proxy support
